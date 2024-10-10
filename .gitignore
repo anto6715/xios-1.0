@@ -1,0 +1,21 @@
+# dirs
+.cache
+.void_dir
+bin
+cfg
+inc
+lib
+obj
+
+# files 
+.void_file
+arch.env
+arch.fcm
+arch.path
+fcm_env.ksh
+log_err
+log_out
+Makefile
+etc/libxios.cfg
+extern/netcdf4
+fcm_env.sh
